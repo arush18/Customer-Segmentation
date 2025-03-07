@@ -42,4 +42,4 @@ Graphs generated during data analysis and modeling are stored in the `visualizat
 This project demonstrates customer segmentation using machine learning models. The models' performance is evaluated using standard metrics, and insights are derived from the data to aid business decisions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
